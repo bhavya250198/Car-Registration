@@ -1,0 +1,52 @@
+[
+    {
+      "img": "../images/2004_Porsche_911_Carrera_type_997.jpg",
+      "name": "Porsche 911",
+      "manufacturer": "Porsche",
+      "model": "911",
+      "price": 135000,
+      "vehicleNumber": "",
+      "seatingCapacity": "",
+      "bookingStatus": false
+    },
+    {
+      "img": "../images/250px-Nissan_GT-R.jpg",
+      "name": "Nissan GT-R",
+      "manufacturer": "Nissan",
+      "model": "GT-R",
+      "price": 80000,
+      "vehicleNumber": "",
+      "seatingCapacity": "",
+      "bookingStatus": false
+    },
+    {
+      "img": "../images/250px-BMW_M3_E92.jpg",
+      "name": "BMW M3",
+      "manufacturer": "BMW",
+      "model": "M3",
+      "price": 60500,
+      "vehicleNumber": "",
+      "seatingCapacity": "",
+      "bookingStatus": false
+    },
+    {
+      "img": "../images/250px-Audi_S5.jpg",
+      "name": "Audi S5",
+      "manufacturer": "Audi",
+      "model": "S5",
+
+      "vehicleNumber": "",
+      "seatingCapacity": "",
+      "bookingStatus": false
+    },
+    {
+      "img": "../images/250px-2007_Audi_TT_Coupe.jpg",
+      "name": "Audi TT",
+      "manufacturer": "Audi",
+      "model": "TT",
+      "price": 40000,
+      "vehicleNumber": "",
+      "seatingCapacity": "",
+      "bookingStatus": false
+    }
+]
